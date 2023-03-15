@@ -1,0 +1,5 @@
+window.alert('mensagem'): mostra um alerta na tela.
+
+window.confirm('mensagem'): aba de confirmação.
+
+window.prompt('mensagem'): escrever algo geralmente seu nome.

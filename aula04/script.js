@@ -1,3 +1,3 @@
 window.alert('minha primeira mensagem!')
 window.confirm('Esta gostando de javascript?')
-window.prompt
+window.prompt('Qual seu npme?')
