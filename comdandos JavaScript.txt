@@ -3,3 +3,39 @@ window.alert('mensagem'): mostra um alerta na tela.
 window.confirm('mensagem'): aba de confirmação.
 
 window.prompt('mensagem'): escrever algo geralmente seu nome.
+
+
+É MUITO IMPORTANTE COMENTAR OS CODIGOS:
+Existe dois jeitos
+//: comentario para uma unica linha
+
+/* */: comentario para mais de uma linha de codigo.
+
+
+
+
+= um unico sinal de igual significa recebe.
+
+
+
+VARIAVEIS:
+
+No javascript moderno, além de ultilizar a palavra var, também podemos utilizar a palavra let para criar variaveis.
+
+
+Regras identificadores de variaveis:
+
+- Podem começar com letra, $ ou _
+
+- Não podem começar com numeros
+
+- É possivel usar letras ou números
+
+- É possivel usar  acentos e símbolos
+
+- Não podem contes espaços
+
+- Não podem ser palavras reservadas
+
+
+
