@@ -22,6 +22,9 @@ VARIAVEIS:
 
 No javascript moderno, além de ultilizar a palavra var, também podemos utilizar a palavra let para criar variaveis.
 
+Variaveis servem para guardar qualquer tipo de dados.
+
+
 
 Regras identificadores de variaveis:
 
@@ -37,5 +40,55 @@ Regras identificadores de variaveis:
 
 - Não podem ser palavras reservadas
 
+DICAS:
 
+1 - Maiúsculas e minusculas fazem diferença.
+
+2 - Tente escolher nomes coerentes para as variaveis.
+
+3 - Evite se tornar um 'programador alfabeto' ou um 'programdor contador'.
+
+ 
+CONVERSÃO DE DADOS:
+
+//como no java, no js podemos ter uma
+concanetação (+) exemplo:window.alert("é um
+grande prazer em te conhecer, " +nome)
+(nome) foi a variavel para este exemplo.//
+
+//o + serve tanto para concatenação, quanto
+para adição
+
+{number+number} para adição
+string + string para concatenação//
+
+//converter string para number:
+
+var n1
+String > number
+
+var n1 = Number.parseInt(window.prompt("digite
+um numero:")) para inteiro
+
+=NumberparseFloat(window.prompt("digite outro
+numero:")) para real
+
+var n1 =Number(window.prompt("digite um
+numero:")) se deixar somente number ele faz a
+conversão automaticamente
+
+var soma = n1+n2
+window.alert("a soma dos valores é: "+ soma)//
+x
+
+//Converter Number para String:
+
+Number > String
+window.alert("a soma dos valores é: "+
+String(s))
+window.alert("a soma dos valores é: "+
+s.toString()) 's' é a variavel deste exemplo.//
+
+
+FORMATANDO STRINGS:
 
