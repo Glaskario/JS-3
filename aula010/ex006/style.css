@@ -1,0 +1,19 @@
+#area{
+    background: rgb(135, 212, 116);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 5px;
+}
+#clique{
+    background: rgb(110, 110, 109);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+}
