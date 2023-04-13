@@ -144,3 +144,24 @@ SINAIS LOGICOS:
 OPERADOR TERNARIO:
 
 TESTE ? TRUE  : FALSE
+
+
+
+CONDIÇÕES:
+
+estrutura de controle muito importante na programação.
+Servem para fazer um filtro se deve ou não executar uma ação de acordo resultado da condição.
+
+if ( CONDIÇÃO ){
+
+} else {
+
+}
+
+TIPOS DE CONDIÇÃO:
+
+CONDIÇÃO SIMPLES: if{condição){ true }
+
+
+
+
