@@ -163,5 +163,18 @@ TIPOS DE CONDIÇÃO:
 CONDIÇÃO SIMPLES: if{condição){ true }
 
 
+VARIAVEIS COMPOSTAS
 
+Tipos:
 
+arrays: é uma variavel que armazena varios dados ao mesmo tempo podendo adicionar mais dados sem ter que excluir os anteriores.
+
+Um arrays é uma uma variavel que tem varios elemnetos e cada elemento é composto por valor e uma chave de identificação.
+
+para adicionar mais um indice você usa o seguinte comando :  num[3] = 6 ou assista a aula 15 do curso de javascript do guanabara.
+
+também temos um comando mais facil que é num.push(7) que ira acrecentar um valor a uma array.
+
+num.sort() usamos isso para organizar a numeração dentro de uma array
+
+num.length usamos este atributo para saber o comprimento do indice.
