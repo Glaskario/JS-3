@@ -10,6 +10,6 @@ console.log('Tudo bem?')
 
 do {
     console.log(`Passo ${c}`)
-    c++
+
 }while(c <= 2)
 
