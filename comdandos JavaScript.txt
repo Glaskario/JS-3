@@ -100,7 +100,7 @@ SUBTRAÇÃO: -
 
 MULTIPLICAÇÃO: *
 
-DIVISÃO: /
+DIVISÃO: %
 
 DIVISÃO NUMEROS INTEIROS: %
 
@@ -178,3 +178,15 @@ também temos um comando mais facil que é num.push(7) que ira acrecentar um val
 num.sort() usamos isso para organizar a numeração dentro de uma array
 
 num.length usamos este atributo para saber o comprimento do indice.
+
+
+
+
+FUNÇÕES:
+
+São AÇÕES executadas assim que são CHAMADAS ou em decorrência de algum EVENTO.
+
+
+Uma FUNÇÃO pode receber parâmetros e retornar um resultado.
+
+ 
